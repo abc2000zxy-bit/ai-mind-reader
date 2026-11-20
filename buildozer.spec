@@ -9,6 +9,7 @@ requirements = python3,kivy,numpy
 orientation = portrait
 fullscreen = 0
 android.archs = arm64-v8a
+android.ndk = 25b
 android.allow_backup = True
 
 [buildozer]
